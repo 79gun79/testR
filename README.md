@@ -1,2 +1,2 @@
 # testR
-for me by handle the git &amp; github
+나의 깃과 깃허브 실력 향상을 위해.
